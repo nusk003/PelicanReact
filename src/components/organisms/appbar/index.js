@@ -32,7 +32,6 @@ export default () => {
           <Typography variant="h6" className={classes.title}>
             ToDo 
           </Typography>
-          <Button color="inherit">Login</Button>
         </Toolbar>
       </AppBar>
     </div>

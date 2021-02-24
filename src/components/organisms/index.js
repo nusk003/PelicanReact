@@ -1,3 +1,3 @@
-export {default as TaskList} from './tasklist';
-export {default as AppBar} from './appbar';
-export {default as AddTaskModal} from './addtask';
+export {default as TaskList} from './taskList';
+export {default as AppBar} from './appBar';
+export {default as AddTaskModal} from './addTask';

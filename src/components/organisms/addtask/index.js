@@ -10,7 +10,7 @@ export default (props) => {
         <Dialog fullWidth open = {open} onClose = {onClose} >
             <DialogContent>
                 <DialogContentText>Add Task</DialogContentText>
-                <AddTaskForm/>
+                <AddTaskForm callback = {onClose} />
             </DialogContent>
         </Dialog>
     )
